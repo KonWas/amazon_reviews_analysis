@@ -1,0 +1,111 @@
+
+--------------------------------------------------------------------------------
+PRODUCT CATEGORIES REPORT
+--------------------------------------------------------------------------------
+Generated: 2025-03-24 21:11:25
+--------------------------------------------------------------------------------
+
+1. CATEGORY DISTRIBUTION
+Bluetooth Accessory: 25371 reviews (32.14%)
+Phone: 18852 reviews (23.88%)
+Other: 9397 reviews (11.91%)
+Case/Cover: 8888 reviews (11.26%)
+Charger/Cable: 8685 reviews (11.00%)
+Battery: 4931 reviews (6.25%)
+Car Accessory: 970 reviews (1.23%)
+Adapter: 795 reviews (1.01%)
+Screen Protector: 557 reviews (0.71%)
+Earphone/Headphone: 309 reviews (0.39%)
+Holder/Mount: 175 reviews (0.22%)
+
+2. AVERAGE RATING BY CATEGORY
+Holder/Mount: 3.89
+Battery: 3.72
+Case/Cover: 3.61
+Charger/Cable: 3.60
+Bluetooth Accessory: 3.56
+Screen Protector: 3.50
+Other: 3.46
+Adapter: 3.44
+Car Accessory: 3.43
+Phone: 3.39
+Earphone/Headphone: 3.01
+
+3. TOP PRODUCTS BY CATEGORY
+
+BLUETOOTH ACCESSORY
+  1. Nokia Boom Headset HDB-4 - 5.00
+  2. ERICSSON DPY901425 Sony Ericsson HBH-65 Bluetooth Headset - 5.00
+  3. Bluetooth RAZRWIRE Oakley Sunglasses - Mercury - 5.00
+  4. PhoneBites RAZZ Sound Effects Headset for Mobile Phones (3-pin) - 5.00
+  5. Kyocera Bluetooth Stereo Headset/Headphones - 4.75
+
+PHONE
+  1. Blackberry 8300 Curve Phone Wrap Orange - 5.00
+  2. Nokia N73 Music Edition Unlocked Quadband Phone (Black) - 5.00
+  3. iGo Power Tip for Select Samsung Smartphones - 5.00
+  4. Kyocera 1500 mAh Lithium-Ion Standard Battery for Kyocera QCP 6035 Phones - 5.00
+  5. Nokia N93 Unlocked Cell Phone with 3.15 MP Camera, 3G, Wi-Fi, MP3/Video Player, MiniSD Slot--U.S. Version with Warranty (Black) - 5.00
+
+OTHER
+  1. Cingular 3-Pack Metal Stylus for Cingular 8125 - 5.00
+  2. i2 electronics iWrap Set of Seven Skins for iPod nano 2G (Clear) - 5.00
+  3. Buck Knives 2615 Vanguard, Rubber - 5.00
+  4. Nextel i560 Swiveling Holster - 5.00
+  5. Wilson Electronics Single Band - 800 MHz Yagi Antenna Model Y8009EL with N Female Connector - 5.00
+
+CASE/COVER
+  1. Nokia Leather Carrying Case for Nokia 8860 Phones - 5.00
+  2. BoxWave HyperTech iPhone 4 Case -Jet Black/Crimson Red - 5.00
+  3. Body Glove Prism Case for Nokia 3300 Series Phones, Transparent Blue - 5.00
+  4. Body Glove Ion Mobile Phone Case for Nokia 8290 Series Phones, Blue - 5.00
+  5. Body Glove Ion Mobile Phone Case for Nokia 3300 Series Phones, Silver - 5.00
+
+CHARGER/CABLE
+  1. Premium Rapid Car Charger with Ic Chip for Samsung A900 Blade, X497, X496, X495, D357, T309, T319, A580, A640, C207, D307, E635, T609, E105, X105, P107, V205, V206, R225, 5300, A310, S300m, S307, E316, E317, N370, D410, D415, X426, X427, A530, A530s, A610, N625, A650, A690, A900, A950, T209, T609, E715. - 5.00
+  2. Nokia 6585 6820 6225 1221 9500 Original Cell Phone Travel Charger / Home Wall ACP-12U AC-2U - 5.00
+  3. Jabra CLA002 Car Charger - 5.00
+  4. Travel Charger for Pantech PG-C300 / C3, Black - 5.00
+  5. Palm Treo 600 USB Laptop Travel Cable - 5.00
+
+BATTERY
+  1. LG Standard Battery for the VX7000 - 5.00
+  2. Nokia BLD-3 Li-Ion Battery for Nokia 6200, 6225, PM6225, 6610, 7200, 7210 - 5.00
+  3. Replacement Lithium-ion Battery for Samsung E315/316/317 - 5.00
+  4. Sanyo Pm-8200 Extended Lithium-ion Battery (1400mah) - 5.00
+  5. Tekkeon Inc MP1140 myPower Rechargeable Battery Dock (White) - 5.00
+
+CAR ACCESSORY
+  1. Nokia Complete Hands-Free Car Kit with Audio Handset for Nokia Phones - 5.00
+  2. T-Mobile Prepaid $100 Refill Card - 5.00
+  3. T-Mobile To Go Prepaid $10 Refill Card - 5.00
+  4. Krusell Multidapt Carholder Kit - Black - 5.00
+  5. Ericsson Car Holder with Ball Joint for Ericsson Phones - 4.67
+
+ADAPTER
+  1. BoxWave HTC Rezound HDMI Adapter - MHL Adapter for the HTC Rezound, Stream Content From Your HTC Rezound Straight to Any HDMI Source Such as an HDTV! - 5.00
+  2. Motorola Vehicle Power Adapter for V220, V180 and C650 - 4.50
+  3. Plantronics Vista Universal Modular Adapter and Amplifier - 4.09
+  4. Nokia Audio Adapter for Nokia 6085, 6086, 6126, 6131, N71, N72, N73, N80, N93 - 4.05
+  5. 3.5mm Adapter for Sony Ericsson: J100a / J100i / J220a / J220i / J230i / K310a / K310c / K310i / K510a / K510c / K510i / K550i / K610i / K750c / K750i / K758c / K790a / K800i / M600i / M608c / P990c / P990i / V630i / W300c / W300i / w550 / W550c / W550i / W600 / W600c / W600i / W700c / W700i / W710c / W710i / W800 / W800c / W800i / W810 / W810c / W810i / W850i / W880i / W900c / W900i / W950c - 3.80
+
+SCREEN PROTECTOR
+  1. AT&T 8525 Anti Glare JAVOScreen Screen Protector, Anti Glare - 4.33
+  2. Kroo Palm Treo 650 700 PDA Cell Phone LCD Screen Protector - 4.33
+  3. Samsung BlackJack i607 Anti-Reflective Screen Protector - 4.33
+  4. LCD Screen Protector for Motorola SLVR L7 - 4.30
+  5. BoxWave LG Optimus One P500 ClearTouch Anti-Glare Screen Protector (Single Pack) - 4.20
+
+EARPHONE/HEADPHONE
+  1. Coby CVM15 Hands-Free Earphone with Boom Microphone - 4.33
+  2. Cellet 2.5mm Mono Headphone with Boom Microphone - 4.33
+  3. Palm Stereo Headphone Adapter for PalmOne - 3.83
+  4. Tunewear WIND-TET-02Y Tetran Headphone Winder (Yellow) - 3.67
+  5. Palm Treo 600/650 Stereo Headphone Adapter - 3.38
+
+HOLDER/MOUNT
+  1. New Pro.Fit miniGrip Black Universal Mount Holder - 4.67
+  2. Panavise Custom InDash Mount for Honda Odyssey '05-06 - 4.67
+  3. Wilson Electronics Dual Band RV/Trucker Spring Mount Antenna - 4.67
+  4. ARK-PTM115-B: Arkon Custom Cradle for Palm, HP and HTC Windshield and Dash Mount - 4.50
+  5. Bracketron PHW-203-BL Mobile Grip-iT Rotating Windshield Mount for GPS - 4.28

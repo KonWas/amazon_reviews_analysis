@@ -1,0 +1,62 @@
+
+--------------------------------------------------------------------------------
+RECOMMENDER SYSTEM REPORT
+--------------------------------------------------------------------------------
+Generated: 2025-03-24 21:11:25
+--------------------------------------------------------------------------------
+
+1. TOP RATED PRODUCTS (with at least 5 reviews)
+1. Sony Ericsson BST-30 - Cellular Phone Battery Li-Ion 700 mAh (ID: B000C9VFCG): 5.00
+2. Motorola RAZR / V3 Double Talk (ID: B000BQYZKO): 5.00
+3. NEW OEM MOTOROLA NNTN4963B WALL CHARGER FOR i450 i875 i920 i570 i580 i670 i365 885 880 205 730 305 (ID: B000A1KF40): 5.00
+4. Wilson Electronics Single Band - 800 MHz Yagi Antenna Model Y8009EL with N Female Connector (ID: B0006H4FVM): 5.00
+5. Motorola Mini Travel Charger CH600 Bulk (ID: B0003031YO): 5.00
+6. Travel Charger for Pantech PG-C300 / C3, Black (ID: B000PVA996): 5.00
+7. Eforcity Replacement Li-Ion Battery for Kyocera KX12 / KX13 / KX16 / KX160 (ID: B000FDSROS): 5.00
+8. Cellet Digital Camera for Sony DSC T1, T10, T50 and Canon PowerShot Black Horizontal Noble Case (ID: B000P7PNIM): 5.00
+9. Cingular 3-Pack Metal Stylus for Cingular 8125 (ID: B000JIDG0E): 5.00
+10. Nextel i560 Swiveling Holster (ID: B000G622RM): 5.00
+11. LG VX8300 Extended Battery & Battery Door (ID: B000GNVB9A): 5.00
+12. Motorola OEM TRAVEL CHARGER A/C FOR RAZOR SPN5185B (ID: B00030313A): 5.00
+13. Lg Vx6000 Extended Battery 1500mah (ID: B0006MTZ1C): 5.00
+14. Garmin 010-10567-09 3-Pack Metal Stylus for iQue M5 (ID: B0007LU1PG): 5.00
+15. Body Glove Ion Mobile Phone Case for Nokia 8290 Series Phones, Blue (ID: B00005LLZT): 5.00
+16. Nokia ACP-7U Factory Original Travel Chargers 3585i 6360 7250i and Others - Retail Packaging - Black (ID: B00004W77R): 4.93
+17. Fluke FLUC25 Large Soft Case for Digital Multimeter (ID: B0000WTZQ8): 4.90
+18. Andrew Extensis for Motorola Startac Phones (ID: B00005IBUM): 4.88
+19. Dual Electronics IP35 Car Audio iPlug Cable (ID: B000BNY0XY): 4.88
+20. Sony Ericsson W880i Unlocked Cell Phone with 2 MP Camera, 3G, MP3/Video Player, Memory Stick Pro Duo Slot--International Version with No Warranty (Steel Silver) (ID: B000NTGNX6): 4.86
+
+2. MOST REVIEWED PRODUCTS
+1. Plantronics Voyager 510 Bluetooth Headset [Retail Packaging] (ID: B0009B0IX4): 3443 reviews
+2. Motorola HS850 Bluetooth Headset (Color Sent Based on Availability. Comes in Black, Blue and Grey, or Silver)[Bulk Packaged] (ID: B0007WWAGI): 984 reviews
+3. Samsung WEP200 Bluetooth Wireless Phones Headset - Retail Packaging - Black (ID: B000GAO9T2): 848 reviews
+4. Motorola H700 Bluetooth Headset [Motorola Retail Packaging] (ID: B000CQXHOS): 628 reviews
+5. Jawbone Noise Shield Bluetooth Headset (Black) [Retail Packaged] (ID: B000RUPEOA): 623 reviews
+6. Motorola MOTOROKR S9 Bluetooth Active Headphones (Red,Black) [Retail Packaging] (ID: B000NKCO5Q): 558 reviews
+7. Coby CA-747 Dual Position CD/MD/MP3 Cassette Adapter (ID: B00006JPFU): 528 reviews
+8. BlueAnt Supertooth Light Bluetooth Speakerphone (Black) (ID: B000Q6R4MK): 515 reviews
+9. Motorola T305 Bluetooth Portable Car Speaker (ID: B000JKKE5M): 509 reviews
+10. Sony Ericsson T610 Phone (T-Mobile) (ID: B0000AGRYX): 501 reviews
+11. Plantronics MX150 Flexible Boom Headset with 2.5 mm Plug (ID: B0000ALPBP): 463 reviews
+12. Motorola V300 Phone (T-Mobile) (ID: B0000WZWSI): 414 reviews
+13. Monster RadioPlay 300 Universal Full Spectrum FM Transmitter MBL-FM XMTR300 (ID: B000E43GOO): 410 reviews
+14. Motorola H500 Bluetooth Headset (Nickel) (ID: B0006HTZ80): 409 reviews
+15. Logitech Mobile Freedom Bluetooth Headset (ID: B00069IQG0): 394 reviews
+16. iGo Stowaway Ultra-Slim Bluetooth Keyboard for Blackberry and other PDA/ Handhelds (ID: B0002OKCXE): 387 reviews
+17. Motorola HS820 Bluetooth Headset - Hematite Gray (ID: B0002WRGHG): 378 reviews
+18. Br50 - Motorola Razr V3 / V3c / V3i OEM Li-ion Battery - Black Battery (ID: B000EGH00I): 361 reviews
+19. MOTOROLA OEM BR50 RAZR V3 V3a V3c V3g V3i V3m BATTERY (ID: B000IN5ZHM): 357 reviews
+20. zBoost YX-510 Cell Phone Signal Booster Dual-Band Unit for Home or Office (ID: B000J2XZ1K): 353 reviews
+
+3. USER ACTIVITY
+Most active user: 44 reviews
+Average reviews per user: 1.13
+Median reviews per user: 1.0
+Users with more than 10 reviews: 29
+
+4. RATING DISTRIBUTION STATISTICS
+Average rating: 3.52
+Median rating: 4.0
+Standard deviation: 1.52
+Mode (most common rating): 5.0

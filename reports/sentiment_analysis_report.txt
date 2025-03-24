@@ -1,0 +1,32 @@
+
+--------------------------------------------------------------------------------
+SENTIMENT ANALYSIS REPORT
+--------------------------------------------------------------------------------
+Generated: 2025-03-24 21:11:25
+--------------------------------------------------------------------------------
+
+1. RATING-BASED SENTIMENT
+Positive: 47970 reviews (60.78%)
+Negative: 22241 reviews (28.18%)
+Neutral: 8719 reviews (11.05%)
+
+2. NLTK-BASED SENTIMENT
+Positive: 57918 reviews (73.38%)
+Negative: 17730 reviews (22.46%)
+Neutral: 3282 reviews (4.16%)
+
+3. COMPARISON BETWEEN METHODS
+NLTK Sentiment    negative  neutral  positive
+Rating Sentiment                             
+negative             11306     1475      9460
+neutral               2320      390      6009
+positive              4104     1417     42449
+
+4. AVERAGE COMPOUND SCORE BY RATING
+Rating 1.0: -0.1131
+Rating 2.0: 0.0950
+Rating 3.0: 0.3290
+Rating 4.0: 0.6131
+Rating 5.0: 0.6749
+
+Correlation between rating and sentiment compound score: 0.5166

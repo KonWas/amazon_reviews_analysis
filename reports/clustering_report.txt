@@ -1,0 +1,54 @@
+
+--------------------------------------------------------------------------------
+CLUSTERING REPORT
+--------------------------------------------------------------------------------
+Generated: 2025-03-24 21:11:25
+--------------------------------------------------------------------------------
+
+1. REVIEW CLUSTERS
+Number of review clusters: 5
+
+Cluster sizes:
+Cluster 0: 34815 reviews (44.11%)
+Cluster 1: 5553 reviews (7.04%)
+Cluster 2: 6334 reviews (8.02%)
+Cluster 3: 14947 reviews (18.94%)
+Cluster 4: 17281 reviews (21.89%)
+
+Average ratings per cluster:
+Cluster 0: 3.47
+Cluster 1: 3.60
+Cluster 2: 3.57
+Cluster 3: 3.66
+Cluster 4: 3.46
+
+2. PRODUCT CLUSTERS
+Number of product clusters: 2
+
+Cluster sizes:
+Cluster 0: 3029 products (92.49%)
+Cluster 1: 246 products (7.51%)
+
+Cluster characteristics:
+
+Product Cluster 0:
+  - score_mean: 3.45
+  - score_count: 15.20
+  - score_std: 1.36
+  - helpful_votes_sum: 30.62
+  - helpful_votes_mean: 1.82
+  - total_votes_sum: 39.07
+  - total_votes_mean: 2.32
+  - pca_1: -0.35
+  - pca_2: -0.09
+
+Product Cluster 1:
+  - score_mean: 3.36
+  - score_count: 111.94
+  - score_std: 1.42
+  - helpful_votes_sum: 574.49
+  - helpful_votes_mean: 10.13
+  - total_votes_sum: 757.97
+  - total_votes_mean: 13.05
+  - pca_1: 4.34
+  - pca_2: 1.12

@@ -1,0 +1,39 @@
+
+--------------------------------------------------------------------------------
+BASIC STATISTICS REPORT
+--------------------------------------------------------------------------------
+Generated: 2025-03-24 21:11:25
+--------------------------------------------------------------------------------
+
+1. DATASET OVERVIEW
+Number of reviews: 78930
+Number of unique products: 7438
+Number of unique users: 68040
+
+2. MISSING VALUES
+product_price: 43287 (54.84%)
+user_id: 2276 (2.88%)
+profile_name: 2277 (2.88%)
+helpfulness_ratio: 34920 (44.24%)
+
+3. RATING DISTRIBUTION
+Rating 1.0: 14675 reviews (18.59%)
+Rating 2.0: 7566 reviews (9.59%)
+Rating 3.0: 8719 reviews (11.05%)
+Rating 4.0: 17717 reviews (22.45%)
+Rating 5.0: 30253 reviews (38.33%)
+
+Average rating: 3.52
+
+4. REVIEW LENGTH STATISTICS
+Average review length (words): 103.24
+Median review length (words): 65.0
+Shortest review (words): 1
+Longest review (words): 2885
+
+5. REVIEW LENGTH BY RATING
+Rating 1.0: 91.36 words
+Rating 2.0: 114.81 words
+Rating 3.0: 117.70 words
+Rating 4.0: 121.89 words
+Rating 5.0: 91.03 words
