@@ -97,4 +97,4 @@ The analysis reveals several interesting patterns in consumer behavior and produ
 - Bluetooth accessories dominate the market with 32.14% of all reviews
 - Most users (68,040 unique users) leave only one review, with just 29 users submitting more than 10 reviews
 
-For a detailed summary of findings, see the [Analysis Summary](amazon_analysis_summary.md).
+For a detailed summary of findings, see the reports directory.
