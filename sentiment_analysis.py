@@ -145,8 +145,8 @@ def visualize_sentiment_distribution(df):
     plt.ylabel('Count')
 
     plt.tight_layout()
-    plt.savefig(get_viz_path('sentiment_distribution.png'))
-    print("Sentiment distribution visualization saved as 'sentiment_distribution.png'")
+    plt.savefig(get_viz_path('sa_sentiment_distribution.png'))
+    print("Sentiment distribution visualization saved as 'sa_sentiment_distribution.png'")
 
     # Plot the relationship between score and compound sentiment
     plt.figure(figsize=(10, 6))
@@ -155,8 +155,8 @@ def visualize_sentiment_distribution(df):
     plt.xlabel('Rating Score')
     plt.ylabel('Sentiment Compound Score')
     plt.grid(True, linestyle='--', alpha=0.7)
-    plt.savefig(get_viz_path('score_vs_sentiment.png'))
-    print("Score vs sentiment visualization saved as 'score_vs_sentiment.png'")
+    plt.savefig(get_viz_path('sa_score_vs_sentiment.png'))
+    print("Score vs sentiment visualization saved as 'sa_score_vs_sentiment.png'")
 
 
 def analyze_positive_negative_terms(df):
@@ -216,8 +216,8 @@ def analyze_positive_negative_terms(df):
     plt.xlabel('Count')
 
     plt.tight_layout()
-    plt.savefig(get_viz_path('common_words.png'))
-    print("Common words visualization saved as 'common_words.png'")
+    plt.savefig(get_viz_path('sa_common_words.png'))
+    print("Common words visualization saved as 'sa_common_words.png'")
 
 
 def train_sentiment_classifier(df):
@@ -276,8 +276,8 @@ def train_sentiment_classifier(df):
     plt.title('Confusion Matrix')
     plt.ylabel('True Label')
     plt.xlabel('Predicted Label')
-    plt.savefig(get_viz_path('confusion_matrix.png'))
-    print("Confusion matrix visualization saved as 'confusion_matrix.png'")
+    plt.savefig(get_viz_path('sa_confusion_matrix.png'))
+    print("Confusion matrix visualization saved as 'sa_confusion_matrix.png'")
 
     return model, vectorizer
 

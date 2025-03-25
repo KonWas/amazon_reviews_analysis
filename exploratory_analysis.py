@@ -78,8 +78,8 @@ def visualize_rating_distribution(df):
                 ha="center", fontsize=10)
 
     plt.tight_layout()
-    plt.savefig(get_viz_path('rating_distribution.png'))
-    print("Rating distribution visualization saved as 'rating_distribution.png'")
+    plt.savefig(get_viz_path('ea_rating_distribution.png'))
+    print("Rating distribution visualization saved as 'ea_rating_distribution.png'")
 
 
 def analyze_review_length(df):
@@ -110,8 +110,8 @@ def analyze_review_length(df):
 
     plt.legend()
     plt.tight_layout()
-    plt.savefig(get_viz_path('review_length_distribution.png'))
-    print("Review length distribution visualization saved as 'review_length_distribution.png'")
+    plt.savefig(get_viz_path('ea_review_length_distribution.png'))
+    print("Review length distribution visualization saved as 'ea_review_length_distribution.png'")
 
     # Analyze review length by rating
     plt.figure(figsize=(10, 6))
@@ -120,8 +120,8 @@ def analyze_review_length(df):
     plt.xlabel('Rating')
     plt.ylabel('Review Length (words)')
     plt.tight_layout()
-    plt.savefig(get_viz_path('review_length_by_rating.png'))
-    print("Review length by rating visualization saved as 'review_length_by_rating.png'")
+    plt.savefig(get_viz_path('ea_review_length_by_rating.png'))
+    print("Review length by rating visualization saved as 'ea_review_length_by_rating.png'")
 
     # Calculate average review length by rating
     avg_length_by_rating = df.groupby('score')['review_length'].mean().reset_index()
@@ -156,8 +156,8 @@ def analyze_review_helpfulness(df):
     plt.xlabel('Helpfulness Ratio (helpful votes / total votes)')
     plt.ylabel('Count')
     plt.tight_layout()
-    plt.savefig(get_viz_path('helpfulness_ratio_distribution.png'))
-    print("Helpfulness ratio distribution visualization saved as 'helpfulness_ratio_distribution.png'")
+    plt.savefig(get_viz_path('ea_helpfulness_ratio_distribution.png'))
+    print("Helpfulness ratio distribution visualization saved as 'ea_helpfulness_ratio_distribution.png'")
 
     # Analyze helpfulness by rating
     plt.figure(figsize=(10, 6))
@@ -166,8 +166,8 @@ def analyze_review_helpfulness(df):
     plt.xlabel('Rating')
     plt.ylabel('Helpfulness Ratio')
     plt.tight_layout()
-    plt.savefig(get_viz_path('helpfulness_by_rating.png'))
-    print("Helpfulness by rating visualization saved as 'helpfulness_by_rating.png'")
+    plt.savefig(get_viz_path('ea_helpfulness_by_rating.png'))
+    print("Helpfulness by rating visualization saved as 'ea_helpfulness_by_rating.png'")
 
     # Calculate average helpfulness by rating
     avg_helpfulness_by_rating = voted_reviews.groupby('score')['helpfulness_ratio'].mean().reset_index()
@@ -220,8 +220,8 @@ def analyze_temporal_trends(df):
     plt.xticks(rotation=45)
 
     plt.tight_layout()
-    plt.savefig(get_viz_path('temporal_trends.png'))
-    print("Temporal trends visualization saved as 'temporal_trends.png'")
+    plt.savefig(get_viz_path('ea_temporal_trends.png'))
+    print("Temporal trends visualization saved as 'ea_temporal_trends.png'")
 
     # Calculate monthly trends
     df['year_month'] = df['review_date'].dt.strftime('%Y-%m')
@@ -271,8 +271,8 @@ def create_wordcloud(df):
         print(f"Word cloud visualization saved as '{filename}'")
 
     # Generate word clouds
-    generate_wordcloud(positive_reviews, 'Word Cloud - Positive Reviews', 'positive_wordcloud.png')
-    generate_wordcloud(negative_reviews, 'Word Cloud - Negative Reviews', 'negative_wordcloud.png')
+    generate_wordcloud(positive_reviews, 'Word Cloud - Positive Reviews', 'ea_positive_wordcloud.png')
+    generate_wordcloud(negative_reviews, 'Word Cloud - Negative Reviews', 'ea_negative_wordcloud.png')
 
 
 def analyze_top_products_and_users(df):
@@ -368,8 +368,8 @@ def analyze_product_categories(df):
     plt.xlabel('Count')
     plt.ylabel('Product Category')
     plt.tight_layout()
-    plt.savefig(get_viz_path('category_distribution.png'))
-    print("Category distribution visualization saved as 'category_distribution.png'")
+    plt.savefig(get_viz_path('ea_category_distribution.png'))
+    print("Category distribution visualization saved as 'ea_category_distribution.png'")
 
     # Average rating by category
     avg_rating_by_category = df.groupby('product_category')['score'].mean().sort_values(ascending=False)
@@ -385,8 +385,8 @@ def analyze_product_categories(df):
     plt.xlabel('Average Rating')
     plt.ylabel('Product Category')
     plt.tight_layout()
-    plt.savefig(get_viz_path('category_ratings.png'))
-    print("Category ratings visualization saved as 'category_ratings.png'")
+    plt.savefig(get_viz_path('ea_category_ratings.png'))
+    print("Category ratings visualization saved as 'ea_category_ratings.png'")
 
 
 if __name__ == "__main__":

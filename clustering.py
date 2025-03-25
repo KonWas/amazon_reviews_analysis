@@ -117,8 +117,8 @@ def cluster_reviews_by_text(df, n_clusters=5):
         plt.title('Silhouette Score for Different Numbers of Clusters')
         plt.xlabel('Number of Clusters')
         plt.ylabel('Silhouette Score')
-        plt.savefig(get_viz_path('silhouette_scores.png'))
-        print("Silhouette scores visualization saved as 'silhouette_scores.png'")
+        plt.savefig(get_viz_path('cl_silhouette_scores.png'))
+        print("Silhouette scores visualization saved as 'cl_silhouette_scores.png'")
 
         # Choose the number of clusters that gives the highest silhouette score
         n_clusters = range_n_clusters[np.argmax(silhouette_scores)]
@@ -143,8 +143,8 @@ def cluster_reviews_by_text(df, n_clusters=5):
     sns.scatterplot(x='pca_1', y='pca_2', hue='cluster', data=filtered_df, palette='viridis')
     plt.title('Clusters of Reviews (PCA)')
     plt.legend(title='Cluster')
-    plt.savefig(get_viz_path('review_clusters_pca.png'))
-    print("PCA clusters visualization saved as 'review_clusters_pca.png'")
+    plt.savefig(get_viz_path('cl_review_clusters_pca.png'))
+    print("PCA clusters visualization saved as 'cl_review_clusters_pca.png'")
 
     # Try t-SNE for better visualization
     print("Applying t-SNE for better visualization...")
@@ -160,8 +160,8 @@ def cluster_reviews_by_text(df, n_clusters=5):
     sns.scatterplot(x='tsne_1', y='tsne_2', hue='cluster', data=filtered_df, palette='viridis')
     plt.title('Clusters of Reviews (t-SNE)')
     plt.legend(title='Cluster')
-    plt.savefig(get_viz_path('review_clusters_tsne.png'))
-    print("t-SNE clusters visualization saved as 'review_clusters_tsne.png'")
+    plt.savefig(get_viz_path('cl_review_clusters_tsne.png'))
+    print("t-SNE clusters visualization saved as 'cl_review_clusters_tsne.png'")
 
     return filtered_df
 
@@ -210,8 +210,8 @@ def analyze_clusters(df_with_clusters):
     plt.title('Number of Reviews in Each Cluster')
     plt.xlabel('Cluster')
     plt.ylabel('Count')
-    plt.savefig(get_viz_path('cluster_sizes.png'))
-    print("\nCluster sizes visualization saved as 'cluster_sizes.png'")
+    plt.savefig(get_viz_path('cl_cluster_sizes.png'))
+    print("\nCluster sizes visualization saved as 'cl_cluster_sizes.png'")
 
     # Visualize average ratings per cluster
     plt.figure(figsize=(10, 6))
@@ -220,8 +220,8 @@ def analyze_clusters(df_with_clusters):
     plt.title('Average Rating per Cluster')
     plt.xlabel('Cluster')
     plt.ylabel('Average Rating')
-    plt.savefig(get_viz_path('cluster_ratings.png'))
-    print("Cluster ratings visualization saved as 'cluster_ratings.png'")
+    plt.savefig(get_viz_path('cl_cluster_ratings.png'))
+    print("Cluster ratings visualization saved as 'cl_cluster_ratings.png'")
 
 
 def cluster_products_by_reviews(df):
@@ -291,8 +291,8 @@ def cluster_products_by_reviews(df):
     sns.scatterplot(x='pca_1', y='pca_2', hue='cluster', data=product_stats, palette='viridis', s=100)
     plt.title('Clusters of Products (PCA)')
     plt.legend(title='Cluster')
-    plt.savefig(get_viz_path('product_clusters_pca.png'))
-    print("PCA product clusters visualization saved as 'product_clusters_pca.png'")
+    plt.savefig(get_viz_path('cl_product_clusters_pca.png'))
+    print("PCA product clusters visualization saved as 'cl_product_clusters_pca.png'")
 
     # Analyze clusters
     print("\nAnalyzing product clusters:")

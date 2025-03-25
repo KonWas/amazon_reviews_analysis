@@ -64,8 +64,8 @@ def analyze_rating_distribution(df):
     plt.xlabel('Rating')
     plt.ylabel('Count')
     plt.xticks([0, 1, 2, 3, 4], ['1', '2', '3', '4', '5'])
-    plt.savefig(get_viz_path('rating_distribution.png'))
-    print("Rating distribution visualization saved as 'rating_distribution.png'")
+    plt.savefig(get_viz_path('rs_rating_distribution.png'))
+    print("Rating distribution visualization saved as 'rs_rating_distribution.png'")
 
     # Calculate average rating per product
     avg_ratings = df.groupby('product_id')['score'].agg(['mean', 'count']).reset_index()
